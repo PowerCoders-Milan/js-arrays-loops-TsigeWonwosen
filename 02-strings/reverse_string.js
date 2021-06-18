@@ -11,4 +11,5 @@ stringArray = stringArray.reverse()
 console.log("Reversed Array of String : \n" + stringArray)
 
 stringArray = stringArray.join("")
+
 console.log("Reversed and Joined String : \n" + stringArray)
